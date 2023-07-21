@@ -1,1 +1,1 @@
-<h1 text-align = center>Hi \(^_^)/</h1>
+                                                      <h1>Hi \(^_^)/</h1>
