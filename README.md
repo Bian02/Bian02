@@ -1,1 +1,1 @@
-<h1>still Learning Code</h1>
+<h1>Still Learning Code</h1>
